@@ -1,37 +1,105 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gresources>
   <gresource prefix="/io/github/c9dev/PenguinMail">
-    <file>icons/scalable/actions/penguin-mail-inbox-symbolic.svg</file>
-    <file>icons/scalable/actions/penguin-mail-archive-symbolic.svg</file>
+    <file>band/browser.svg</file>
+    <file>band/error.svg</file>
+    <file>band/idle.svg</file>
+    <file>band/lookup.svg</file>
+    <file>band/stamped.svg</file>
+    <file>band/success.svg</file>
+    <file>band/unreachable.svg</file>
+    <file>icons/16x16/apps/io.github.c9dev.PenguinMail.svg</file>
+    <file>icons/scalable/actions/alarm-symbolic.svg</file>
+    <file>icons/scalable/actions/appointment-soon-symbolic.svg</file>
+    <file>icons/scalable/actions/audio-volume-muted-symbolic.svg</file>
+    <file>icons/scalable/actions/audio-x-generic-symbolic.svg</file>
+    <file>icons/scalable/actions/avatar-default-symbolic.svg</file>
+    <file>icons/scalable/actions/call-start-symbolic.svg</file>
+    <file>icons/scalable/actions/changes-prevent-symbolic.svg</file>
+    <file>icons/scalable/actions/channel-insecure-symbolic.svg</file>
+    <file>icons/scalable/actions/channel-secure-symbolic.svg</file>
+    <file>icons/scalable/actions/computer-symbolic.svg</file>
+    <file>icons/scalable/actions/dialog-information-symbolic.svg</file>
+    <file>icons/scalable/actions/dialog-password-symbolic.svg</file>
+    <file>icons/scalable/actions/dialog-question-symbolic.svg</file>
+    <file>icons/scalable/actions/dialog-warning-symbolic.svg</file>
+    <file>icons/scalable/actions/document-edit-symbolic.svg</file>
+    <file>icons/scalable/actions/document-open-symbolic.svg</file>
+    <file>icons/scalable/actions/document-save-symbolic.svg</file>
+    <file>icons/scalable/actions/edit-copy-symbolic.svg</file>
+    <file>icons/scalable/actions/edit-delete-symbolic.svg</file>
+    <file>icons/scalable/actions/edit-undo-symbolic.svg</file>
+    <file>icons/scalable/actions/folder-saved-search-symbolic.svg</file>
+    <file>icons/scalable/actions/folder-symbolic.svg</file>
+    <file>icons/scalable/actions/format-indent-more-symbolic.svg</file>
+    <file>icons/scalable/actions/go-down-symbolic.svg</file>
+    <file>icons/scalable/actions/go-next-symbolic.svg</file>
+    <file>icons/scalable/actions/go-previous-symbolic.svg</file>
+    <file>icons/scalable/actions/go-up-symbolic.svg</file>
+    <file>icons/scalable/actions/image-missing-symbolic.svg</file>
+    <file>icons/scalable/actions/image-x-generic-symbolic.svg</file>
+    <file>icons/scalable/actions/inode-directory-symbolic.svg</file>
+    <file>icons/scalable/actions/list-add-symbolic.svg</file>
+    <file>icons/scalable/actions/mail-attachment-symbolic.svg</file>
+    <file>icons/scalable/actions/mail-forward-symbolic.svg</file>
+    <file>icons/scalable/actions/mail-mark-junk-symbolic.svg</file>
+    <file>icons/scalable/actions/mail-mark-notjunk-symbolic.svg</file>
+    <file>icons/scalable/actions/mail-read-symbolic.svg</file>
+    <file>icons/scalable/actions/mail-reply-all-symbolic.svg</file>
+    <file>icons/scalable/actions/mail-reply-sender-symbolic.svg</file>
+    <file>icons/scalable/actions/mail-send-receive-symbolic.svg</file>
+    <file>icons/scalable/actions/mail-send-symbolic.svg</file>
+    <file>icons/scalable/actions/mail-unread-symbolic.svg</file>
+    <file>icons/scalable/actions/mark-location-symbolic.svg</file>
+    <file>icons/scalable/actions/media-playback-stop-symbolic.svg</file>
+    <file>icons/scalable/actions/network-offline-symbolic.svg</file>
+    <file>icons/scalable/actions/network-wireless-offline-symbolic.svg</file>
+    <file>icons/scalable/actions/open-menu-symbolic.svg</file>
+    <file>icons/scalable/actions/package-x-generic-symbolic.svg</file>
+    <file>icons/scalable/actions/pan-down-symbolic.svg</file>
+    <file>icons/scalable/actions/pan-end-symbolic.svg</file>
     <file>icons/scalable/actions/penguin-mail-all-mail-symbolic.svg</file>
+    <file>icons/scalable/actions/penguin-mail-archive-symbolic.svg</file>
+    <file>icons/scalable/actions/penguin-mail-cake-symbolic.svg</file>
+    <file>icons/scalable/actions/penguin-mail-calendar-symbolic.svg</file>
+    <file>icons/scalable/actions/penguin-mail-flag-outline-symbolic.svg</file>
+    <file>icons/scalable/actions/penguin-mail-flag-symbolic.svg</file>
+    <file>icons/scalable/actions/penguin-mail-focus-symbolic.svg</file>
+    <file>icons/scalable/actions/penguin-mail-globe-symbolic.svg</file>
+    <file>icons/scalable/actions/penguin-mail-inbox-symbolic.svg</file>
+    <file>icons/scalable/actions/penguin-mail-link-symbolic.svg</file>
+    <file>icons/scalable/actions/penguin-mail-lock-symbolic.svg</file>
+    <file>icons/scalable/actions/penguin-mail-mark-symbolic.svg</file>
     <file>icons/scalable/actions/penguin-mail-outbox-symbolic.svg</file>
     <file>icons/scalable/actions/penguin-mail-outgoing-symbolic.svg</file>
-    <file>icons/scalable/actions/penguin-mail-tag-symbolic.svg</file>
-    <file>icons/scalable/actions/penguin-mail-link-symbolic.svg</file>
-    <file>icons/scalable/actions/penguin-mail-sparkle-symbolic.svg</file>
-    <file>icons/scalable/actions/penguin-mail-calendar-symbolic.svg</file>
     <file>icons/scalable/actions/penguin-mail-people-symbolic.svg</file>
-    <file>icons/scalable/actions/penguin-mail-lock-symbolic.svg</file>
-    <file>icons/scalable/actions/penguin-mail-flag-symbolic.svg</file>
-    <file>icons/scalable/actions/penguin-mail-flag-outline-symbolic.svg</file>
-    <file>icons/scalable/actions/penguin-mail-focus-symbolic.svg</file>
-    <file>icons/scalable/actions/penguin-mail-cake-symbolic.svg</file>
-    <file>icons/scalable/actions/penguin-mail-globe-symbolic.svg</file>
+    <file>icons/scalable/actions/penguin-mail-sparkle-symbolic.svg</file>
+    <file>icons/scalable/actions/penguin-mail-tag-symbolic.svg</file>
     <file>icons/scalable/actions/penguin-mail-waiting-symbolic.svg</file>
-    <file>icons/scalable/actions/penguin-mail-mark-symbolic.svg</file>
-    <file>icons/scalable/apps/io.github.c9dev.PenguinMail.svg</file>
+    <file>icons/scalable/actions/process-stop-symbolic.svg</file>
+    <file>icons/scalable/actions/security-high-symbolic.svg</file>
+    <file>icons/scalable/actions/sidebar-show-symbolic.svg</file>
+    <file>icons/scalable/actions/starred-symbolic.svg</file>
+    <file>icons/scalable/actions/system-search-symbolic.svg</file>
+    <file>icons/scalable/actions/text-x-generic-symbolic.svg</file>
+    <file>icons/scalable/actions/user-trash-symbolic.svg</file>
+    <file>icons/scalable/actions/video-x-generic-symbolic.svg</file>
+    <file>icons/scalable/actions/view-list-bullet-symbolic.svg</file>
+    <file>icons/scalable/actions/view-list-ordered-symbolic.svg</file>
+    <file>icons/scalable/actions/view-more-symbolic.svg</file>
+    <file>icons/scalable/actions/view-refresh-symbolic.svg</file>
+    <file>icons/scalable/actions/window-close-symbolic.svg</file>
+    <file>icons/scalable/actions/x-office-address-book-symbolic.svg</file>
+    <file>icons/scalable/actions/x-office-calendar-symbolic.svg</file>
+    <file>icons/scalable/actions/x-office-document-symbolic.svg</file>
+    <file>icons/scalable/actions/x-office-drawing-symbolic.svg</file>
+    <file>icons/scalable/actions/x-office-presentation-symbolic.svg</file>
+    <file>icons/scalable/actions/x-office-spreadsheet-symbolic.svg</file>
     <file>icons/scalable/apps/io.github.c9dev.PenguinMail-symbolic.svg</file>
-    <file>icons/16x16/apps/io.github.c9dev.PenguinMail.svg</file>
-    <file>style.css</file>
+    <file>icons/scalable/apps/io.github.c9dev.PenguinMail.svg</file>
     <file>logos/google.png</file>
-    <file>logos/microsoft.svg</file>
     <file>logos/icloud.svg</file>
-    <file>band/idle.svg</file>
-    <file>band/stamped.svg</file>
-    <file>band/browser.svg</file>
-    <file>band/lookup.svg</file>
-    <file>band/error.svg</file>
-    <file>band/unreachable.svg</file>
-    <file>band/success.svg</file>
+    <file>logos/microsoft.svg</file>
+    <file>style.css</file>
   </gresource>
 </gresources>
